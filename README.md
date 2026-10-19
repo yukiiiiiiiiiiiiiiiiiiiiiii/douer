@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/yukiiiiiiiiiiiiiiiiiiiiiii/catpaw/refs/heads/main/index.js.md5
+https://raw.githubusercontent.com/yukiiiiiiiiiiiiiiiiiiiiiii/douer/refs/heads/main/index.js.md5
